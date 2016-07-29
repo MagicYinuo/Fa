@@ -26,6 +26,7 @@ public class JokerTextFragment extends Fragment {
     private List<JokerTextBean.ShowapiResBodyBean.ContentlistBean> list;
     private LayoutInflater mInflater;
 
+
     public static JokerTextFragment getInstance(List<JokerTextBean.ShowapiResBodyBean.ContentlistBean> list) {
         JokerTextFragment jf = new JokerTextFragment();
         jf.list = list;

@@ -24,6 +24,8 @@
         <activity android:name=".activity.MainUi"></activity>
         <!--新闻界面-->
         <activity android:name=".activity.NewsItemActivity"></activity>
+        <!--测试页面-->
+        <activity android:name=".activity.MainUiV3"></activity>
     </application>
 
 </manifest>

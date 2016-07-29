@@ -16,12 +16,7 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_weight="0"
-        android:background="#222831"
-        tl:tl_indicator_color="#FFF6B5AA"
-        tl:tl_indicator_corner_radius="5dp"
-        tl:tl_indicator_style="BLOCK"
-        tl:tl_tab_space_equal="true"
-        tl:tl_textBold="true"></com.flyco.tablayout.SlidingTabLayout>
+        android:background="#222831"></com.flyco.tablayout.SlidingTabLayout>
 
 
 </LinearLayout>

@@ -29,7 +29,7 @@ public class GuideUI extends AppCompatActivity {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                Intent intent = new Intent(GuideUI.this, MainUi.class);
+                Intent intent = new Intent(GuideUI.this, MainUiV3.class);
                 startActivity(intent);
                 finish();
             }

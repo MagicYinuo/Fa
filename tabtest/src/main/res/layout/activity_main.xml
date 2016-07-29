@@ -18,18 +18,18 @@
             android:layout_weight="1"
             android:text="Hello World!" />
 
-        <com.flyco.tablayout.SlidingTabLayout
+        <com.flyco.tablayout.CommonTabLayout
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="48dp"
-            android:background="#222831"
+            android:background="#6D8FB0"
             android:paddingLeft="5dp"
             android:paddingRight="5dp"
-            tl:tl_indicator_color="#393E46"
-            tl:tl_indicator_corner_radius="5dp"
-            tl:tl_indicator_margin_left="2dp"
-            tl:tl_indicator_margin_right="2dp"
-            tl:tl_indicator_style="BLOCK"></com.flyco.tablayout.SlidingTabLayout>
+            tl:tl_iconVisible="false"
+            tl:tl_indicator_margin_left="5dp"
+            tl:tl_indicator_margin_right="5dp"
+            tl:tl_indicator_style="BLOCK"
+            tl:tl_textsize="14sp"></com.flyco.tablayout.CommonTabLayout>
     </LinearLayout>
 
 

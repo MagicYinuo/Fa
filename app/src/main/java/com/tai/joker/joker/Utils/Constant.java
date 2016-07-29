@@ -6,6 +6,7 @@ package com.tai.joker.joker.Utils;
  */
 public class Constant {
     public static final String NEWS_URL = "http://apis.baidu.com/txapi/social/social";
+    public static final String JOKER_PARAMETERS = "page=1";
     public static String JOKER_TEXT_URL = "http://apis.baidu.com/showapi_open_bus/showapi_joke/joke_text";
     public static String JOKER_PIC_URL = "http://apis.baidu.com/showapi_open_bus/showapi_joke/joke_pic";
     public static String PARAMETERS_KEY = "page";
