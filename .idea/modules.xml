@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabdemo/tabdemo.iml" filepath="$PROJECT_DIR$/tabdemo/tabdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabtest/tabtest.iml" filepath="$PROJECT_DIR$/tabtest/tabtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thenews/thenews.iml" filepath="$PROJECT_DIR$/thenews/thenews.iml" />
     </modules>
   </component>
 </project>

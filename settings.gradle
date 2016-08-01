@@ -1,1 +1,1 @@
-include ':app', ':FlycoTabLayout_demo', ':FlycoTabLayout_Lib', ':tabtest', ':tabdemo'
+include ':app', ':FlycoTabLayout_demo', ':FlycoTabLayout_Lib', ':tabtest', ':tabdemo', ':thenews'
