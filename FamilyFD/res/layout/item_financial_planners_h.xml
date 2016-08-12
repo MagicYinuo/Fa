@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/item_financial_planners_iv_head"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:padding="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@id/item_financial_planners_iv_head"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/item_financial_planners_tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="姓名: XXX" />
+
+        <TextView
+            android:id="@+id/item_financial_planners_tv_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:text="职级: 资深保险理财师" />
+        
+        <TextView
+            android:id="@+id/item_financial_planners_tv_golden"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="所需金币: 00000" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_financial_planners_tv_order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="立即预约"
+        android:padding="5dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/corners_bg_violet"
+        android:layout_alignParentRight="true"
+        android:textColor="#FFF" />
+
+</RelativeLayout>

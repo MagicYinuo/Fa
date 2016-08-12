@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_creditcardlist_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="选择卡片"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_35dp"
+                android:background="@color/white"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                        android:id="@+id/activity_creditcardlist_rl_bank"
+                    
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:id="@+id/activity_creditcardlist_ll_bank"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/activity_creditcardlist_tv_bank"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="热门银行"
+                            android:textColor="@color/textcolor"
+                            android:textSize="@dimen/dimen_14sp" />
+
+                        <ImageView
+                            android:id="@+id/activity_creditcardlist_iv_bank"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:layout_marginLeft="@dimen/dimen_3dp"
+                            android:src="@drawable/selector_activity_creditcardlist_arrow" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                     android:id="@+id/activity_creditcardlist_rl_point"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:id="@+id/activity_creditcardlist_ll_point"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/activity_creditcardlist_tv_point"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/textcolor"
+                            android:text="所有特色"
+                            android:textSize="@dimen/dimen_14sp" />
+
+                        <ImageView
+                            android:id="@+id/activity_creditcardlist_iv_point"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:layout_marginLeft="@dimen/dimen_3dp"
+                            android:src="@drawable/selector_activity_creditcardlist_arrow" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                     android:id="@+id/activity_creditcardlist_rl_level"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:id="@+id/activity_creditcardlist_ll_level"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/activity_creditcardlist_tv_level"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/textcolor"
+                            android:text="全部等级"
+                            android:textSize="@dimen/dimen_14sp" />
+
+                        <ImageView
+                            android:id="@+id/activity_creditcardlist_iv_level"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:layout_marginLeft="@dimen/dimen_3dp"
+                            android:src="@drawable/selector_activity_creditcardlist_arrow" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <com.example.familyfd.view.MyListView
+                android:id="@+id/activity_creditcardlist_lv_cardlist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white" >
+            </com.example.familyfd.view.MyListView>
+        </LinearLayout>
+
+</LinearLayout>

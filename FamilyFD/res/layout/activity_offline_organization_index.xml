@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+      <TextView android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_offline_organization_index_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:id="@+id/activity_offline_organization_index_tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="平安机构"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/activity_offline_organization_index_rl_golden"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="@color/appback"
+                android:gravity="center_vertical" >
+
+
+                <TextView
+                     android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dimen_15dp"
+                    android:gravity="center_vertical"
+                    android:text="金牌理财规划师"
+                    android:textSize="@dimen/dimen_12sp" />
+                
+                <TextView 
+                     android:id="@+id/activity_offline_organization_index_tv_moregolden"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_alignParentRight="true"
+                    android:text="更多>>"
+                    android:textSize="@dimen/dimen_12sp"
+                    />
+            </RelativeLayout>
+
+            <HorizontalScrollView
+                android:id="@+id/activity_offline_organization_index_hs_golden"
+                android:layout_width="match_parent"
+                android:scrollbars="none"
+                 android:background="#FFF"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:id="@+id/activity_offline_organization_index_hll_golden"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:id="@+id/activity_offline_organization_index_rl_high"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="@color/appback"
+                android:gravity="center_vertical" >
+                
+                 <TextView 
+                     android:id="@+id/activity_offline_organization_index_tv_morehigh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_alignParentRight="true"
+                    android:text="更多>>"
+                    android:textSize="@dimen/dimen_12sp"
+                    />
+
+
+                <TextView
+                     android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dimen_15dp"
+                    android:gravity="center_vertical"
+                    android:text="高级理财规划师"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+           
+            <HorizontalScrollView
+                android:id="@+id/activity_offline_organization_index_hs_high"
+                android:layout_width="match_parent"
+                android:scrollbars="none"
+                 android:background="#FFF"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:id="@+id/activity_offline_organization_index_hll_high"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

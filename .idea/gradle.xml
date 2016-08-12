@@ -9,9 +9,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActionBarSherlock_lib" />
+            <option value="$PROJECT_DIR$/Android-PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/ConvenientBanner_demo" />
+            <option value="$PROJECT_DIR$/FamilyFD" />
             <option value="$PROJECT_DIR$/FlycoTabLayout_Lib" />
             <option value="$PROJECT_DIR$/FlycoTabLayout_demo" />
+            <option value="$PROJECT_DIR$/SlidingMenu_library" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/convenientbanner" />
             <option value="$PROJECT_DIR$/tabdemo" />
             <option value="$PROJECT_DIR$/tabtest" />
             <option value="$PROJECT_DIR$/thenews" />
@@ -20,9 +26,15 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActionBarSherlock_lib" />
+            <option value="$PROJECT_DIR$/Android-PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/ConvenientBanner_demo" />
+            <option value="$PROJECT_DIR$/FamilyFD" />
             <option value="$PROJECT_DIR$/FlycoTabLayout_Lib" />
             <option value="$PROJECT_DIR$/FlycoTabLayout_demo" />
+            <option value="$PROJECT_DIR$/SlidingMenu_library" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/convenientbanner" />
             <option value="$PROJECT_DIR$/tabdemo" />
             <option value="$PROJECT_DIR$/tabtest" />
             <option value="$PROJECT_DIR$/thenews" />

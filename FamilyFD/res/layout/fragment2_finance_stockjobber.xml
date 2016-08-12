@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="港美股"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <com.example.familyfd.view.MyListView
+                android:id="@+id/fragment2_finance_stockjobber_lv_USstocks"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@color/white" >
+            </com.example.familyfd.view.MyListView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:gravity="center_vertical"
+                android:text="A股"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <com.example.familyfd.view.MyListView
+                android:id="@+id/fragment2_finance_stockjobber_lv_A"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@color/white" >
+            </com.example.familyfd.view.MyListView>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

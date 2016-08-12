@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:scrollbars="none"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <GridView
+                android:id="@+id/fragment_finance_creditcard_gv"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_175dp"
+                android:numColumns="4"
+                android:scrollbars="none" >
+            </GridView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="@color/appback"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_15dp"
+                android:text="特色卡"
+                android:textSize="@dimen/dimen_13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_75dp"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                   android:id="@+id/fragment_finance_creditcard_rl_quickcard"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/dimen_10dp"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="快速批卡"
+                            android:textColor="@color/textcolor"
+                            android:textSize="@dimen/dimen_15sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="急速办,审批快"
+                            android:textColor="@color/textcolor2"
+                            android:textSize="@dimen/dimen_11sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/dimen_10dp"
+                        android:src="@drawable/fragment_finance_quickcard" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/fragment_finance_creditcard_rl_highcard"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/dimen_10dp"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="高额卡"
+                            android:textColor="@color/textcolor"
+                            android:textSize="@dimen/dimen_15sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="急速办,审批快"
+                            android:textColor="@color/textcolor2"
+                            android:textSize="@dimen/dimen_11sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/dimen_10dp"
+                        android:src="@drawable/fragment_finance_high" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_75dp"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:id="@+id/fragment_finance_creditcard_rl_businesscard"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/dimen_10dp"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="商务卡"
+                            android:textColor="@color/textcolor"
+                            android:textSize="@dimen/dimen_15sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="急速办,审批快"
+                            android:textColor="@color/textcolor2"
+                            android:textSize="@dimen/dimen_11sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/dimen_10dp"
+                        android:src="@drawable/fragment_finance_business" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/fragment_finance_creditcard_rl_carscard"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/dimen_10dp"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="车主卡"
+                            android:textColor="@color/textcolor"
+                            android:textSize="@dimen/dimen_15sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:text="急速办,审批快"
+                            android:textColor="@color/textcolor2"
+                            android:textSize="@dimen/dimen_11sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/dimen_10dp"
+                        android:src="@drawable/fragment_finance_car" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="@color/appback"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_15dp"
+                android:text="热门卡"
+                android:textSize="@dimen/dimen_13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <com.example.familyfd.view.MyListView
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                android:id="@+id/fragment_finance_creditcard_lv_hotcard"
+                android:layout_height="wrap_content" >
+            </com.example.familyfd.view.MyListView>
+            
+            <TextView android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="@color/appback"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

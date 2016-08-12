@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/investplan_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="投资规划"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/appback" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/white" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="#FFF" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_13dp"
+            android:text="家庭收入主导者年龄"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:id="@+id/activity_investplan_tv_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dimen_15dp"
+            android:gravity="right"
+            android:textSize="@dimen/dimen_12sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="#FFF" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_13dp"
+            android:text="结余"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:id="@+id/activity_investplan_tv_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dimen_15dp"
+            android:gravity="right"
+            android:textSize="@dimen/dimen_12sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="#FFF" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_13dp"
+            android:text="保险规划支出"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <EditText
+            android:id="@+id/activity_investplan_et_insurancepay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/activity_investplan_et_insurancepaybian"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dimen_5dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="right"
+            android:hint="0"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:id="@+id/activity_investplan_et_insurancepaybian"
+             android:layout_centerVertical="true"
+             android:layout_marginRight="@dimen/dimen_15dp"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dimen_10sp"
+            android:text="万元" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="#FFF" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_13dp"
+            android:text="教育规划支出"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <EditText
+            android:id="@+id/activity_investplan_et_educationpay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/activity_investplan_et_educationpaybian"
+            android:layout_marginRight="@dimen/dimen_5dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="right"
+            android:hint="0"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/dimen_12sp" />
+        
+          <TextView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:id="@+id/activity_investplan_et_educationpaybian"
+             android:layout_centerVertical="true"
+             android:layout_marginRight="@dimen/dimen_15dp"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dimen_10sp"
+            android:text="万元" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="#FFF" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_13dp"
+            android:text="养老规划支出"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <EditText
+            android:id="@+id/activity_investplan_et_pasturepay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/activity_investplan_et_pasturepaybian"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dimen_5dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="right"
+            android:hint="0"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/dimen_12sp" />
+        
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:id="@+id/activity_investplan_et_pasturepaybian"
+             android:layout_centerVertical="true"
+             android:layout_marginRight="@dimen/dimen_15dp"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dimen_10sp"
+            android:text="万元" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/appback" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <TextView
+        android:id="@+id/activity_investplan_tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:paddingBottom="@dimen/dimen_10dp"
+        android:paddingLeft="@dimen/dimen_20dp"
+        android:paddingRight="@dimen/dimen_20dp"
+        android:paddingTop="@dimen/dimen_10dp"
+        android:textSize="@dimen/dimen_12sp" >
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_30dp"
+        android:background="@color/appback"
+        android:paddingBottom="@dimen/dimen_5dp"
+        android:paddingLeft="@dimen/dimen_10dp"
+        android:paddingTop="@dimen/dimen_5dp"
+        android:text="适合您的投资组合"
+        android:textSize="@dimen/dimen_12sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/appback"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="类型"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appframe" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="占比"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appframe" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="投入金额(元)"
+            android:textSize="@dimen/dimen_12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="#FFF"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="股票型基金"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appframe" />
+
+        <TextView
+            android:id="@+id/activity_investplan_tv_sharespercent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text=" %"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appframe" />
+
+        <TextView
+            android:id="@+id/activity_investplan_tv_sharesmoney"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="50000"
+            android:textSize="@dimen/dimen_12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <LinearLayout
+        android:id="@+id/activity_investplan_ll_moneymarket"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="#FFF"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="债券型基金"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appframe" />
+
+        <TextView
+            android:id="@+id/activity_investplan_tv_bondspercent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text=" %"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appframe" />
+
+        <TextView
+            android:id="@+id/activity_investplan_tv_bondsmoney"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="11000"
+            android:textSize="@dimen/dimen_12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appframe" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:gravity="center_vertical|right"
+        android:paddingRight="@dimen/dimen_20dp"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:text="备注 : 所有单位为元"
+        android:textSize="@dimen/dimen_12sp"
+        android:textColor="@color/darkgrayhaha" />
+
+</LinearLayout>

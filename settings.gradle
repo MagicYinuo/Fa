@@ -1,1 +1,1 @@
-include ':app', ':FlycoTabLayout_demo', ':FlycoTabLayout_Lib', ':tabtest', ':tabdemo', ':thenews'
+include ':app', ':FlycoTabLayout_demo', ':FlycoTabLayout_Lib', ':tabtest', ':tabdemo', ':thenews', ':ActionBarSherlock_lib', ':FamilyFD', ':Android-PullToRefresh_library', ':SlidingMenu_library', ':ConvenientBanner_demo', ':convenientbanner'

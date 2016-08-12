@@ -1,0 +1,556 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+      <TextView android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_FDFamily_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="现金规划"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="@color/appback" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/appback" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_name"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_tv_name"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_name"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp" 
+                        android:id="@+id/activity_FDFamily_et_name"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_age"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_tv_age"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_age"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp" 
+                        android:inputType="number"
+                        android:id="@+id/activity_FDFamily_et_age"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_sexy"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_tv_sexy"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_sexy"
+                    android:orientation="horizontal" >
+
+                    <CheckBox
+                        android:id="@+id/activity_FDFamily_cb_male"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:checked="true"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:text="@string/sex_male" />
+
+                    <CheckBox
+                        android:id="@+id/activity_FDFamily_cb_female"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:text="@string/sex_female" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_profession"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_profession"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_profession"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:id="@+id/activity_FDFamily_et_profession"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_marriage"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_marriage"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <Spinner
+                    android:id="@+id/activity_FDFamily_sp_marriage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:textSize="@dimen/dimen_11sp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_marriage"
+                    android:background="#FFF"
+                    android:entries="@array/marriage"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+                </Spinner>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/activity_FDFamily_sp_marriage"
+                    android:layout_alignRight="@id/activity_FDFamily_sp_marriage"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/login_pull" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_marriage"
+                    android:background="#C9C9C9" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_10dp"
+                android:background="#FFF" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_8dp"
+                android:background="@color/appback" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                    android:id="@+id/activity_FDFamily_rl_mateage"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_mateage"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_mateage"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_mateage"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:inputType="number"
+                        android:id="@+id/activity_FDFamily_et_mateage"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:id="@+id/activity_FDFamily_rl_mateprofession"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_mateprofession"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_mateprofession"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_mateprofession"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:id="@+id/activity_FDFamily_et_mateprofession"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:id="@+id/activity_FDFamily_rl_children"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_child"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/activity_FDFamily_child"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <Spinner
+                    android:id="@+id/activity_FDFamily_sp_child"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:textSize="@dimen/dimen_11sp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_child"
+                    android:background="#FFF"
+                    android:entries="@array/child"
+                    android:gravity="right"
+                    android:orientation="horizontal" >
+                </Spinner>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/activity_FDFamily_sp_child"
+                    android:layout_alignRight="@id/activity_FDFamily_sp_child"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/login_pull" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_child"
+                    android:background="#C9C9C9" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_10dp"
+                android:background="#FFF" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/appback" />
+
+            <RelativeLayout
+                android:id="@+id/activity_FDFamily_rl_child1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_child1"
+                    android:layout_width="@dimen/dimen_120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:text="@string/activity_FDFamily_child1"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_child1"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:inputType="number"
+                        android:id="@+id/activity_FDFamily_et_child1age"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/activity_FDFamily_rl_child2"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_child2"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:text="@string/activity_FDFamily_child2"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_child2"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:inputType="number"
+                        android:id="@+id/activity_FDFamily_et_child2age"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/activity_FDFamily_rl_child3"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_child3"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:text="@string/activity_FDFamily_child3"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_child3"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:inputType="number"
+                        android:id="@+id/activity_FDFamily_et_child3age"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/activity_FDFamily_rl_child4"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:id="@+id/activity_FDFamily_tv_child4"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:paddingLeft="@dimen/dimen_20dp"
+                    android:text="@string/activity_FDFamily_child4"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:layout_marginRight="@dimen/dimen_20dp"
+                    android:layout_toRightOf="@id/activity_FDFamily_tv_child4"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/dimen_11sp"
+                        android:id="@+id/activity_FDFamily_et_child4age"
+                        android:inputType="number"
+                        android:layout_alignParentBottom="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/activity_financediagnosisfamily_tv_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_10dp"
+                android:background="#FFF" />
+
+            <TextView
+                android:id="@+id/activity_financediagnosisfamily_tv_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/dimen_70dp"
+                android:layout_marginTop="@dimen/dimen_20dp"
+                android:background="@drawable/corners_bg_goldendi"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_5dp"
+                android:paddingLeft="@dimen/dimen_80dp"
+                android:paddingRight="@dimen/dimen_80dp"
+                android:paddingTop="@dimen/dimen_5dp"
+                android:text="下一步"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimen_12sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

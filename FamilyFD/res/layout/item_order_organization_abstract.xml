@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_80dp"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:id="@+id/item_order_organization_img"
+            android:padding="@dimen/dimen_10dp"
+            android:src="@drawable/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_order_organization_ll"
+            android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/item_order_organization_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="@dimen/dimen_5dp"
+                android:paddingBottom="@dimen/dimen_5dp"
+                android:text="平安机构"
+                android:textSize="@dimen/dimen_14sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/item_order_organization_introduce"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="携程网旅行代金券, 现金直减, 马上出行!"
+                 android:paddingBottom="@dimen/dimen_2dp"
+                android:textSize="@dimen/dimen_10sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/item_order_organization_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="地址 : 龙华区"
+                android:textSize="@dimen/dimen_10sp" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+      <TextView android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/cashplan_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="现金规划"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/appback" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="家庭收入稳定性"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <ImageView
+                    android:id="@+id/activity_FDBalanceSheet_iv_arrow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="15dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:src="@drawable/p2_arrow_down" />
+
+                <Spinner
+                    android:id="@+id/activity_cashplan_sp_stability"
+                    android:layout_width="@dimen/dimen_120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:entries="@array/stability"
+                    android:gravity="right"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="生活费"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <EditText
+                    android:id="@+id/activity_cashplan_et_living"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:cursorVisible="false"
+                    android:ems="8"
+                    android:gravity="right"
+                    android:hint="0"
+                    android:inputType="numberDecimal"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="父母养老(平均)"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <EditText
+                    android:id="@+id/activity_cashplan_et_parents"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:cursorVisible="false"
+                    android:ems="8"
+                    android:gravity="right"
+                    android:hint="0"
+                    android:inputType="numberDecimal"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="教育费"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <EditText
+                    android:id="@+id/activity_cashplan_et_education"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:cursorVisible="false"
+                    android:ems="8"
+                    android:gravity="right"
+                    android:hint="0"
+                    android:inputType="numberDecimal"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="房贷支出"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <EditText
+                    android:id="@+id/activity_cashplan_et_house"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:cursorVisible="false"
+                    android:ems="8"
+                    android:gravity="right"
+                    android:hint="0"
+                    android:inputType="numberDecimal"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="车贷/消费支出"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <EditText
+                    android:id="@+id/activity_cashplan_et_car"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:cursorVisible="false"
+                    android:ems="8"
+                    android:gravity="right"
+                    android:hint="0"
+                    android:inputType="numberDecimal"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:background="#FFF" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:text="其他"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <EditText
+                    android:id="@+id/activity_cashplan_et_other"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_15dp"
+                    android:background="@null"
+                    android:cursorVisible="false"
+                    android:ems="8"
+                    android:gravity="right"
+                    android:hint="0"
+                    android:inputType="numberDecimal"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/appback" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <TextView
+                android:id="@+id/activity_cashplan_tv_result"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFF"
+                android:paddingBottom="@dimen/dimen_10dp"
+                android:paddingLeft="@dimen/dimen_15dp"
+                android:paddingRight="@dimen/dimen_15dp"
+                android:paddingTop="@dimen/dimen_10dp"
+                android:textSize="@dimen/dimen_12sp"
+                android:text="根据您的职业与单位性质的稳定性特点,考虑到家庭收入稳定,建议流动比率为4即可,约需要0万做现金规划用." >
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+          <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/appback" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_35dp"
+                android:background="@color/appback"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_35dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="配置种类"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appframe" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_35dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="金额"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appframe" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_35dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="备注"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <LinearLayout
+                android:id="@+id/activity_cashplan_ll_backcurrent"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="银行活期储蓄"
+                    android:textSize="@dimen/dimen_12sp" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appframe" />
+
+                <TextView
+                    android:id="@+id/activity_cashplan_tv_bankmoney"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="@dimen/dimen_12sp"
+                    android:text="0万元" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appframe" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/dimen_5dp"
+                    android:paddingLeft="@dimen/dimen_5dp"
+                    android:paddingRight="@dimen/dimen_5dp"
+                    android:paddingTop="@dimen/dimen_5dp"
+                    android:textSize="@dimen/dimen_12sp"
+                    android:text="用作日常生活费用,存取方便." />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <LinearLayout
+                android:id="@+id/activity_cashplan_ll_moneymarket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="@dimen/dimen_12sp"
+                    android:text="货币市场基金" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appframe" />
+
+                <TextView
+                    android:id="@+id/activity_cashplan_tv_marketmoney"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="@dimen/dimen_12sp"
+                    android:text="0万元" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/appframe" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                     android:paddingBottom="@dimen/dimen_5dp"
+                    android:paddingLeft="@dimen/dimen_5dp"
+                    android:paddingRight="@dimen/dimen_5dp"
+                    android:paddingTop="@dimen/dimen_5dp"
+                    android:textSize="@dimen/dimen_12sp"
+                    android:text="用作日常生活及月供款,可通过壹钱包,余额宝,理财通等方式将资金购买货币市场基金, 收益高于存款,存取较方便" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appframe" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:gravity="center_vertical|right"
+                android:paddingRight="@dimen/dimen_20dp"
+                android:text="备注 : 所有单位为元"
+                android:textColor="@color/darkgrayhaha" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

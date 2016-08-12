@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_90dp" >
+
+        <ImageView
+            android:id="@+id/item_stockjobber_list_iv"
+            android:layout_width="@dimen/dimen_90dp"
+            android:layout_height="@dimen/dimen_60dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/test_banner7" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_15dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/item_stockjobber_list_iv"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="证券公司名字"
+                android:id="@+id/item_stockjobber_list_tv_name"
+                android:textColor="#151313"
+                android:textSize="@dimen/dimen_12sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="证券公司介绍"
+                 android:id="@+id/item_stockjobber_list_tv_introduce"
+                android:textColor="#5A5757"
+                android:textSize="@dimen/dimen_10sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="活动1"
+                 android:id="@+id/item_stockjobber_list_tv_benefit1"
+                android:textColor="#5A5757"
+                android:textSize="@dimen/dimen_10sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="活动2"
+                 android:id="@+id/item_stockjobber_list_tv_benefit2"
+                android:textColor="#5A5757"
+                android:textSize="@dimen/dimen_10sp" />
+            
+        </LinearLayout>
+        
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/corners_bg_orange"
+            android:textColor="@color/white"
+            android:text="立即开户"
+            android:gravity="center"
+            android:paddingTop="@dimen/dimen_3dp"
+             android:id="@+id/item_stockjobber_list_tv_establishnow"
+            android:paddingBottom="@dimen/dimen_3dp"
+            android:paddingLeft="@dimen/dimen_20dp"
+            android:paddingRight="@dimen/dimen_20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

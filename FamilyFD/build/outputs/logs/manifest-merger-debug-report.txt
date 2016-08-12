@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:2:1-64:12
+	xmlns:android
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:3:5-35
+	android:versionName
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:5:5-30
+		INJECTED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml
+		INJECTED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml
+		INJECTED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml
+uses-sdk
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:7:5-9:41
+MERGED from [Joker:SlidingMenu_library:unspecified] D:\workplace\Joker\FamilyFD\build\intermediates\exploded-aar\Joker\SlidingMenu_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Joker:ActionBarSherlock_lib:unspecified] D:\workplace\Joker\FamilyFD\build\intermediates\exploded-aar\Joker\ActionBarSherlock_lib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Joker:Android-PullToRefresh_library:unspecified] D:\workplace\Joker\FamilyFD\build\intermediates\exploded-aar\Joker\Android-PullToRefresh_library\unspecified\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:11:22-64
+application
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:13:5-62:19
+MERGED from [Joker:ActionBarSherlock_lib:unspecified] D:\workplace\Joker\FamilyFD\build\intermediates\exploded-aar\Joker\ActionBarSherlock_lib\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [Joker:Android-PullToRefresh_library:unspecified] D:\workplace\Joker\FamilyFD\build\intermediates\exploded-aar\Joker\Android-PullToRefresh_library\unspecified\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:16:9-44
+	android:theme
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:14:9-62
+activity#com.example.familyfd.MainActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:20:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:25:27-74
+activity#com.example.familyfd.LoginActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:28:9-71
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:28:19-68
+activity#com.example.familyfd.RegisterActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:29:9-74
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:29:19-71
+activity#com.example.familyfd.HelpActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:30:9-70
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:30:19-67
+activity#com.example.familyfd.UserCenterActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:31:9-76
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:31:19-73
+activity#com.example.familyfd.AccountsetActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:32:9-76
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:32:19-73
+activity#com.example.familyfd.NotisetActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:33:9-73
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:33:19-70
+activity#com.example.familyfd.RiskAppetiteActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:34:9-78
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:34:19-75
+activity#com.example.familyfd.FinanceDiagnosisBeforeActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:35:9-88
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:35:19-85
+activity#com.example.familyfd.FinanceDiagnosisFamilyActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:36:9-88
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:36:19-85
+activity#com.example.familyfd.FinanceDiagnosisBalanceSheet
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:37:9-86
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:37:19-83
+activity#com.example.familyfd.FinanceDiagnosisIESheet
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:38:9-81
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:38:19-78
+activity#com.example.familyfd.AboutActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:39:9-71
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:39:19-68
+activity#com.example.familyfd.OrganizationDetailActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:40:9-84
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:40:19-81
+activity#com.example.familyfd.OrganizationIndexlActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:41:9-84
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:41:19-81
+activity#com.example.familyfd.OfflineOrderActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:42:9-78
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:42:19-75
+activity#com.example.familyfd.VisitingCardActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:43:9-78
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:43:19-75
+activity#com.example.familyfd.InsurancePlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:44:9-79
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:44:19-76
+activity#com.example.familyfd.InsuranceReportActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:45:9-81
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:45:19-78
+activity#com.example.familyfd.CashPlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:46:9-74
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:46:19-71
+activity#com.example.familyfd.EducationPlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:47:9-79
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:47:19-76
+activity#com.example.familyfd.EducationReportActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:48:9-81
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:48:19-78
+activity#com.example.familyfd.PasturePlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:49:9-77
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:49:19-74
+activity#com.example.familyfd.PastureReportActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:50:9-79
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:50:19-76
+activity#com.example.familyfd.InvestPlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:51:9-76
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:51:19-73
+activity#com.example.familyfd.HousePlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:52:9-75
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:52:19-72
+activity#com.example.familyfd.CarsPlanActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:53:9-74
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:53:19-71
+activity#com.example.familyfd.MoreActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:54:9-70
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:54:19-67
+activity#com.example.familyfd.MyDivisionActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:55:9-76
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:55:19-73
+activity#com.example.familyfd.FinanceReportActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:56:9-79
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:56:19-76
+activity#com.example.familyfd.CreditCardListActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:57:9-80
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:57:19-77
+activity#com.example.familyfd.CreditCardDetailActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:58:9-82
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:58:19-79
+activity#com.example.familyfd.InsuranceListActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:59:9-79
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:59:19-76
+activity#com.example.familyfd.InsuranceDetailActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:60:9-81
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:60:19-78
+activity#com.example.familyfd.FundListActivity
+ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:61:9-74
+	android:name
+		ADDED from D:\workplace\Joker\FamilyFD\AndroidManifest.xml:61:19-71

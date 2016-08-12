@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarSherlock_lib/ActionBarSherlock_lib.iml" filepath="$PROJECT_DIR$/ActionBarSherlock_lib/ActionBarSherlock_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-PullToRefresh_library/Android-PullToRefresh_library.iml" filepath="$PROJECT_DIR$/Android-PullToRefresh_library/Android-PullToRefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvenientBanner_demo/ConvenientBanner_demo.iml" filepath="$PROJECT_DIR$/ConvenientBanner_demo/ConvenientBanner_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FamilyFD/FamilyFD.iml" filepath="$PROJECT_DIR$/FamilyFD/FamilyFD.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlycoTabLayout_Lib/FlycoTabLayout_Lib.iml" filepath="$PROJECT_DIR$/FlycoTabLayout_Lib/FlycoTabLayout_Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlycoTabLayout_demo/FlycoTabLayout_demo.iml" filepath="$PROJECT_DIR$/FlycoTabLayout_demo/FlycoTabLayout_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Joker.iml" filepath="$PROJECT_DIR$/Joker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convenientbanner/convenientbanner.iml" filepath="$PROJECT_DIR$/convenientbanner/convenientbanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabdemo/tabdemo.iml" filepath="$PROJECT_DIR$/tabdemo/tabdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabtest/tabtest.iml" filepath="$PROJECT_DIR$/tabtest/tabtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/thenews/thenews.iml" filepath="$PROJECT_DIR$/thenews/thenews.iml" />

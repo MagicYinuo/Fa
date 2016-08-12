@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.familyfd"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.example.familyfd.app.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo_white"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.familyfd.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.familyfd.LoginActivity" />
+        <activity android:name="com.example.familyfd.RegisterActivity" />
+        <activity android:name="com.example.familyfd.HelpActivity" />
+        <activity android:name="com.example.familyfd.UserCenterActivity" />
+        <activity android:name="com.example.familyfd.AccountsetActivity" />
+        <activity android:name="com.example.familyfd.NotisetActivity" />
+        <activity android:name="com.example.familyfd.RiskAppetiteActivity" />
+        <activity android:name="com.example.familyfd.FinanceDiagnosisBeforeActivity" />
+        <activity android:name="com.example.familyfd.FinanceDiagnosisFamilyActivity" />
+        <activity android:name="com.example.familyfd.FinanceDiagnosisBalanceSheet" />
+        <activity android:name="com.example.familyfd.FinanceDiagnosisIESheet" />
+        <activity android:name="com.example.familyfd.AboutActivity" />
+        <activity android:name="com.example.familyfd.OrganizationDetailActivity" />
+        <activity android:name="com.example.familyfd.OrganizationIndexlActivity" />
+        <activity android:name="com.example.familyfd.OfflineOrderActivity" />
+        <activity android:name="com.example.familyfd.VisitingCardActivity" />
+        <activity android:name="com.example.familyfd.InsurancePlanActivity" />
+        <activity android:name="com.example.familyfd.InsuranceReportActivity" />
+        <activity android:name="com.example.familyfd.CashPlanActivity" />
+        <activity android:name="com.example.familyfd.EducationPlanActivity" />
+        <activity android:name="com.example.familyfd.EducationReportActivity" />
+        <activity android:name="com.example.familyfd.PasturePlanActivity" />
+        <activity android:name="com.example.familyfd.PastureReportActivity" />
+        <activity android:name="com.example.familyfd.InvestPlanActivity" />
+        <activity android:name="com.example.familyfd.HousePlanActivity" />
+        <activity android:name="com.example.familyfd.CarsPlanActivity" />
+        <activity android:name="com.example.familyfd.MoreActivity" />
+        <activity android:name="com.example.familyfd.MyDivisionActivity" />
+        <activity android:name="com.example.familyfd.FinanceReportActivity" />
+        <activity android:name="com.example.familyfd.CreditCardListActivity" />
+        <activity android:name="com.example.familyfd.CreditCardDetailActivity" />
+        <activity android:name="com.example.familyfd.InsuranceListActivity" />
+        <activity android:name="com.example.familyfd.InsuranceDetailActivity" />
+        <activity android:name="com.example.familyfd.FundListActivity" />
+    </application>
+
+</manifest>
