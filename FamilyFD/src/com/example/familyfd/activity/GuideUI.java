@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import com.example.familyfd.R;
+import com.example.familyfd.utils.PreferenceUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -103,8 +104,14 @@ public class GuideUI extends Activity implements ViewPager.OnPageChangeListener,
 
     @Override
     public void onClick(View v) {
+        //引导完成 进入主界面
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
+
+        //设置标记,不是第一次进入应用
+        PreferenceUtils.putBoolean(getApplicationContext(), SplashUI.FIRST_ENTER, false);
+
+        finish();
 
     }
 
