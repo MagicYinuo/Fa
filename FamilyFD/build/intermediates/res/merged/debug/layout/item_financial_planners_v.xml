@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dimen_158dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/corners_bg_financaial_planners"
+    android:padding="20dp"
+    android:orientation="vertical" >
+
+    <com.example.familyfd.view.CircleImageView
+        android:id="@+id/item_financial_planners_v_iv_head"
+        android:layout_width="@dimen/dimen_80dp"
+        android:layout_height="@dimen/dimen_60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:src="@drawable/test_banner10" />
+
+    <TextView
+        android:id="@+id/item_financial_planners_v_tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_15dp"
+        android:text="理财师姓名"
+        android:textSize="@dimen/dimen_14sp" />
+
+    <TextView
+        android:id="@+id/item_financial_planners_v_tv_golden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:text="所需金币:"
+        android:textSize="@dimen/dimen_10sp" />
+
+    <TextView
+        android:id="@+id/item_financial_planners_v_tv_order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:background="@drawable/corners_bg_violet"
+        android:padding="@dimen/dimen_5dp"
+        android:text="立即预约"
+        android:textSize="@dimen/dimen_11sp"
+        android:textColor="#FFF" />
+
+</LinearLayout>

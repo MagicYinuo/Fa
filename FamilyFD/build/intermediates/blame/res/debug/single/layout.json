@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\Android-PullToRefresh_library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashui.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_splashui.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accountset.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_accountset.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_study.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_study.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insurance_detail.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_insurance_detail.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_finance_prefecture.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_finance_prefecture.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_plan.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_car_plan.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_information.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_information.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invest_plan.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_invest_plan.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_study_knowledge_information.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_lv_study_knowledge_information.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\SlidingMenu_library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment_finance_allfund.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_fragment_finance_allfund.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finance_diagnosis_balance_sheet.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_finance_diagnosis_balance_sheet.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment_finance_creditcard_bank.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_fragment_finance_creditcard_bank.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creditcard_detail.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_creditcard_detail.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insurance_plan.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_insurance_plan.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_account_income.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_account_income.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finance_diagnosis_before.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_finance_diagnosis_before.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_knowledge.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_knowledge.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_activity_insurance_list.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_activity_insurance_list.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cash_plan.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_cash_plan.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_financial_planners_v.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_financial_planners_v.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_order.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_offline_order.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_video.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_video.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_myevent.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_myevent.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_childeducation_report.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_childeducation_report.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner_college.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_spinner_college.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insurance_report.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_insurance_report.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\index_vertical_notice_item.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\index_vertical_notice_item.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_event.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_event.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_finance_creditcard.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_finance_creditcard.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide_ui.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_guide_ui.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_finance_insurance.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_finance_insurance.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_risk_appetite.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_risk_appetite.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_allevent.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_allevent.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\dimens.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\dimens.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finance_diagnosis_family.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_finance_diagnosis_family.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\Android-PullToRefresh_library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_organization_index.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_offline_organization_index.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_finance_stockjobber.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_finance_stockjobber.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_index.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_index.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finance_report.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_finance_report.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment_finance_creditcard_hotcard.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_fragment_finance_creditcard_hotcard.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_study_video_class.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_lv_study_video_class.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_myorder.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_order_myorder.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pasture_report.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_pasture_report.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visiting_card.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_visiting_card.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insurance_list.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_insurance_list.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usercenter.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_usercenter.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment_finance_hotfund.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_fragment_finance_hotfund.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_childeducation_plan.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_childeducation_plan.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_organization.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_order_organization.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_account_gv.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_account_gv.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creditcard_list.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_creditcard_list.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_class.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_class.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_house_plan.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_house_plan.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_vp_riskappetite.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_vp_riskappetite.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_myorder.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_order_myorder.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_account_pay.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_account_pay.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_finance_fund.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment2_finance_fund.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_financial_planners_h.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_financial_planners_h.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_education_plan_refer.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_education_plan_refer.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_organization_abstract.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_order_organization_abstract.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mydivision.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_mydivision.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notiset.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_notiset.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\item_stockjobber_list.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\item_stockjobber_list.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fund_list.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_fund_list.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_organization_detail.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_offline_organization_detail.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insurer_list.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_insurer_list.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_finance.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_finance.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finance_diagnosis_incomeexpense_sheet.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_finance_diagnosis_incomeexpense_sheet.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sliding.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\fragment_sliding.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pasture.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\layout\\activity_pasture.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    }
+]

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_fundlist_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="基金列表"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/activity_fundlist_tv_all"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="@color/textcolor"
+            android:text="全部"
+            android:textSize="@dimen/dimen_14sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/textcolor"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:id="@+id/activity_fundlist_tv_ps"
+            android:text="偏股"
+            android:textSize="@dimen/dimen_14sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/textcolor"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:id="@+id/activity_fundlist_tv_shares"
+            android:text="股票"
+            android:textSize="@dimen/dimen_14sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/textcolor"
+            android:gravity="center"
+            android:id="@+id/activity_fundlist_tv_mix"
+            android:text="混合"
+            android:textSize="@dimen/dimen_14sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/activity_fundlist_tv_bond"
+            android:gravity="center"
+            android:text="债券"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/dimen_14sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/textcolor"
+            android:gravity="center"
+            android:id="@+id/activity_fundlist_tv_point"
+            android:text="指数"
+            android:textSize="@dimen/dimen_13sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="#E5E3E4" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_5dp"
+        android:background="@color/appback" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="#E5E3E4" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/dimen_15dp"
+            android:text="基金名称"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical|right"
+            android:paddingRight="@dimen/dimen_15dp"
+            android:text="近一年跌涨幅"
+            android:textSize="@dimen/dimen_12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appback" />
+
+    <com.example.familyfd.view.MyListView
+        android:id="@+id/activity_fundlist_lv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/white" >
+    </com.example.familyfd.view.MyListView>
+
+</LinearLayout>

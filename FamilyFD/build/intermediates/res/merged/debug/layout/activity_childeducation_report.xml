@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_education_report_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="子女教育规划报告"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_10dp"
+        android:background="@color/appback" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_110dp"
+        android:layout_marginLeft="@dimen/dimen_30dp"
+        android:layout_marginRight="@dimen/dimen_30dp" >
+
+        <TextView
+            android:id="@+id/activity_education_tv_firstline"
+            android:layout_width="144dp"
+            android:layout_height="@dimen/dimen_3dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="#E7A300" />
+
+        <ImageView
+            android:id="@+id/activity_education_report_iv_nowage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/activity_education_tv_firstline"
+            android:src="@drawable/activity_education_report_nowage" />
+
+        <TextView
+            android:id="@+id/activity_education_tv_sencondline"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_3dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/activity_education_report_iv_nowage"
+            android:layout_toLeftOf="@+id/activity_education_report_iv_startage"
+            android:background="#51575D" />
+
+        <TextView
+            android:id="@+id/activity_education_report_tv_nowage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/activity_education_report_iv_nowage"
+            android:layout_marginBottom="@dimen/dimen_10dp"
+            android:layout_alignLeft="@+id/activity_education_report_iv_nowage"
+            android:text="2岁"
+            android:padding="@dimen/dimen_5dp"
+            android:textColor="#57515C"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <ImageView
+            android:id="@+id/activity_education_report_iv_startage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/activity_education_tv_thirdline"
+            android:src="@drawable/activity_education_report_startage" />
+
+        <TextView
+            android:id="@+id/activity_education_tv_thirdline"
+            android:layout_width="@dimen/dimen_40dp"
+            android:layout_height="@dimen/dimen_3dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/activity_education_report_iv_endage"
+            android:background="#51575D" />
+
+        <ImageView
+            android:id="@+id/activity_education_report_iv_endage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/activity_education_tv_fourline"
+            android:src="@drawable/activity_education_report_endage" />
+
+        <TextView
+            android:id="@+id/activity_education_tv_fourline"
+            android:layout_width="@dimen/dimen_60dp"
+            android:layout_height="@dimen/dimen_3dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="#51575D" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/activity_education_report_tv_endage"
+            android:layout_alignLeft="@+id/activity_education_report_iv_endage"
+            android:layout_marginBottom="@dimen/dimen_10dp"
+            android:layout_above="@+id/activity_education_report_iv_endage"
+            android:text="22岁"
+            android:padding="@dimen/dimen_5dp"
+            android:textColor="#57515C"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_education_report_tv_startage"
+            android:layout_alignLeft="@+id/activity_education_report_iv_startage"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_below="@+id/activity_education_report_iv_startage"
+            android:text="18岁"
+            android:padding="@dimen/dimen_5dp"
+            android:textColor="#57515C"
+            android:textSize="@dimen/dimen_10sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_10dp"
+        android:background="@color/appback" />
+
+    <TextView
+        android:id="@+id/activity_education_report_tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_10dp"
+        android:text="子女教育报告正文"
+        android:textSize="@dimen/dimen_10sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_10dp"
+        android:background="@color/appback" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="@dimen/dimen_10dp"
+        android:paddingLeft="@dimen/dimen_10dp"
+        android:text="我们建议的资产配置组合为:"
+        android:textSize="@dimen/dimen_10sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appback" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="产品类型"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="产品名称"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="投入金额"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="缴费年期"
+            android:textSize="@dimen/dimen_12sp" />
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="届时收入"
+            android:textSize="@dimen/dimen_12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appback" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="固定收益产品"
+            android:layout_gravity="center"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="USG固定收益计划"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="20万"
+            android:id="@+id/activity_education_report_tv_tablemoney"
+            android:layout_gravity="center"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="一次性"
+            android:layout_gravity="center"
+            android:textSize="@dimen/dimen_10sp" />
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:layout_gravity="center"
+            android:id="@+id/activity_education_report_tv_tablemoneythen"
+            android:textSize="@dimen/dimen_10sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appback" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_education_report_ll_aip"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="基金定投"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/dimen_10dp"
+            android:text="广发纯债"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/activity_education_report_tv_aipmonth"
+            android:padding="@dimen/dimen_10dp"
+            android:text="1200元/月"
+            android:textSize="@dimen/dimen_10sp" />
+
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/activity_education_report_tv_aipyear"
+            android:padding="@dimen/dimen_10dp"
+            android:text="15年"
+            android:textSize="@dimen/dimen_10sp" />
+        <TextView
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:background="@color/appback" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/activity_education_report_tv_aipthen"
+            android:padding="@dimen/dimen_10dp"
+            android:textSize="@dimen/dimen_10sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/appback" />
+
+</LinearLayout>

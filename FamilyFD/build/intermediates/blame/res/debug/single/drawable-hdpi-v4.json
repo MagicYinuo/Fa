@@ -1,0 +1,1022 @@
+[
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_normal.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_extramoney.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_extramoney.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_home.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_home.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_objects.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_objects.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_focused_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_dark_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_search.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_outer_holo.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_mima.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\register_mima.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\shadow.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index__study.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index__study.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_layer_1.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_layer_1.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_money.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_money.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_education.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_education.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\testbackground.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\testbackground.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_vol_on.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_vol_on.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bank_gs.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bank_gs.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_insure_chinasafe.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_insure_chinasafe.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_insurance.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_insurance.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_insure_chinapepole.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_insure_chinapepole.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_other.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_other.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_myhome.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_myhome.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_insure.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_insure.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_divider_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_drink.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_drink.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bankcard_gm.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bankcard_gm.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_diagnose.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_diagnose.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_share_pack_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_dark.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_add.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_add.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_insure_pacific.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_insure_pacific.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_pull.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\order_pull.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_roomcharge.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_roomcharge.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bankcard_zg.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bankcard_zg.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner8.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner8.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_redpacket.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_redpacket.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bank_js.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bank_js.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_creditcard.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_creditcard.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_risk.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_risk.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_notepad.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_notepad.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_bg_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_generality.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_generality.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_disabled.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search_api_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_dark.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_inner_holo.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_password_3.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\login_password_3.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_financial_exit.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_financial_exit.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go_search_api_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_high.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_high.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_service.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_service.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bankcard_cz.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bankcard_cz.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_invest.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_invest.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\diagnosischeck.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\diagnosischeck.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\Android-PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_car.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_car.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_arrow_left.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_arrow_left.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\Android-PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_traffic.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_traffic.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_pension.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_pension.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_wages.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_wages.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_default_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_default_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_ok.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\register_ok.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner12.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner12.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_mail.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_mail.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_pressed_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_report.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_report.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index__buttonback.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index__buttonback.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_arrow_right.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_arrow_right.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_top_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__toast_frame.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__toast_frame.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_activity.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_activity.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_moneyfunds.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_moneyfunds.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bank_jt.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bank_jt.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_integral.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_integral.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_more.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_more.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_up.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_up.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bankcard_gs.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bankcard_gs.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_enter.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\login_enter.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner14.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner14.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_mima2.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\register_mima2.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_supermarket.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_supermarket.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ppquit.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\ppquit.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_insuremanage.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_insuremanage.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_longpressed_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_right.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_right.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_down.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_down.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_secondary_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner1.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner1.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_friends.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_friends.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_user.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\register_user.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_search.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_search.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_objects.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_objects.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_education_report_endage.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_education_report_endage.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_financial_division.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_financial_division.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_prize.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_prize.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search_api_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_pressed_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_grid.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_grid.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_arrow_up.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_arrow_up.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_user.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_user.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_titelline.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_titelline.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner7.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner7.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_search.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\order_search.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner3.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner3.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_transparent_light_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_insure_sunshine.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_insure_sunshine.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_share.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_share.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_more_revenue.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_more_revenue.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\Android-PullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_more_finance.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_more_finance.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_food.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_food.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_primary_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_viewpagertitel.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_viewpagertitel.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_education_report_startage.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_education_report_startage.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner6.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner6.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_dark.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_activated_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_go.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_transparent_dark_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_focused_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_gold.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_gold.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner5.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner5.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_arrow_down.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_arrow_down.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_handle.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_handle.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aaa.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\aaa.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_quickcard.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_quickcard.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_more_dream.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_more_dream.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_business.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_business.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bank_chinasafe.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bank_chinasafe.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_password_3_show.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\login_password_3_show.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_secondary_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_back.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_back.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner4.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner4.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner15.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner15.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_more_pyramid.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_more_pyramid.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_shadow_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner13.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner13.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_divider_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_arrow.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\register_arrow.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_secrecy.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_secrecy.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_grade.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_grade.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_phone.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\register_phone.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_education.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_education.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_cash.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_cash.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2_handle_.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p2_handle_.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_invest.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\index_invest.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_share_pack_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p_in_regard_to.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\p_in_regard_to.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_objects.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\login_objects.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_primary_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_light_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner2.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner2.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_phonebill.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\account_phonebill.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bank_zg.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bank_zg.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner11.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner11.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_visitingcard_back.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_visitingcard_back.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_top_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity_education_report_nowage.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\activity_education_report_nowage.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_banner10.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\test_banner10.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_bg_holo_dark.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_finance_bank_zs.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\fragment_finance_bank_zs.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_pressed_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_pull.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\login_pull.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_light.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\exploded-aar\\Joker\\ActionBarSherlock_lib\\unspecified\\res\\drawable-hdpi-v4\\abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\workplace\\Joker\\FamilyFD\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_back.png",
+        "source": "D:\\workplace\\Joker\\FamilyFD\\res\\drawable-hdpi\\login_back.png"
+    }
+]

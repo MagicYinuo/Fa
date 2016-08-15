@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.Fragment2_knowledge" >
+
+    <RelativeLayout
+        android:id="@+id/fragment2_knowledge_banner"
+        android:layout_width="match_parent"
+        android:paddingLeft="@dimen/dimen_5dp"
+        android:paddingRight="@dimen/dimen_5dp"
+        android:layout_height="@dimen/dimen_150dp" >
+
+        <com.example.familyfd.view.MyViewPager
+            android:id="@+id/fragment2_knowledge_myvp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false" >
+        </com.example.familyfd.view.MyViewPager>
+
+        <LinearLayout
+            android:id="@+id/fragment2_knowledge_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp" >
+        </LinearLayout>
+    </RelativeLayout>
+     <TextView android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_5dp"
+        android:background="@color/appback"/>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/fragment2_knowledge_ptrs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.example.familyfd.view.MyListView
+            android:id="@+id/fragment2_knowledge_mylv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </com.example.familyfd.view.MyListView>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+</LinearLayout>

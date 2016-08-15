@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_vp_riskappetite_title"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/dimen_15dp"
+        android:paddingTop="@dimen/dimen_10dp"
+        android:paddingRight="@dimen/dimen_15dp"
+        android:text="1、请问您的年龄处于 "
+        android:textSize="@dimen/dimen_15sp" />
+
+    <RadioGroup
+        android:id="@+id/item_vp_riskappetite_rg"
+        android:layout_width="wrap_content"
+        android:paddingLeft="@dimen/dimen_15dp"
+        android:paddingTop="@dimen/dimen_10dp"
+        android:layout_height="wrap_content" >
+
+<!--         <RadioButton -->
+<!--             android:id="@+id/radio0" -->
+        <!-- android:paddingBottom="5dp" -->
+
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:text="RadioButton" /> -->
+
+<!--         <RadioButton -->
+<!--             android:id="@+id/radio1" -->
+<!--             android:paddingBottom="5dp" -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:text="RadioButton" /> -->
+
+<!--         <RadioButton -->
+<!--             android:id="@+id/radio2" -->
+<!--             android:paddingBottom="5dp" -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:text="RadioButton" /> -->
+    </RadioGroup>
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_50dp"
+        android:text="返回修改上一题"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#FFFFFF"
+        android:layout_marginLeft="@dimen/dimen_60dp"
+        android:layout_marginRight="@dimen/dimen_60dp"
+        android:gravity="center"
+        android:id="@+id/item_vp_riskappetite_tv_back"
+        android:paddingTop="@dimen/dimen_5dp"
+        android:background="@drawable/corners_bg_orange"
+        android:paddingBottom="@dimen/dimen_5dp"
+        android:textSize="@dimen/dimen_15sp"/>
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:text="下一题"
+        android:textColor="#FFFFFF"
+         android:layout_gravity="center_horizontal"
+        android:gravity="center"
+         android:layout_marginLeft="@dimen/dimen_60dp"
+        android:layout_marginRight="@dimen/dimen_60dp"
+        android:id="@+id/item_vp_riskappetite_tv_next"
+        android:paddingTop="@dimen/dimen_5dp"
+        android:background="@drawable/corners_bg_orange"
+        android:paddingBottom="5dp"
+        android:textSize="@dimen/dimen_15sp"/>
+    
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_vp_riskappetite_tv_commit"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:alpha="0.3"
+        android:layout_gravity="center_horizontal"
+        android:text="提交"
+        android:clickable="false"
+         android:layout_marginLeft="@dimen/dimen_60dp"
+        android:layout_marginRight="@dimen/dimen_60dp"
+        android:gravity="center"
+        android:paddingTop="@dimen/dimen_5dp"
+        android:visibility="gone"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/corners_bg_orange"
+        android:paddingBottom="@dimen/dimen_5dp"
+        android:textSize="@dimen/dimen_15sp"/>
+
+</LinearLayout>

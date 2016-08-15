@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_mydivision_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="我的财务师"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/appback" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:text="理财规划师"
+            android:textSize="@dimen/dimen_13sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:id="@+id/activity_mydivision_tv_planner_change"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@drawable/corners_bg_mydivision_change"
+            android:padding="@dimen/dimen_3dp"
+            android:text="更换"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="@dimen/dimen_80dp" >
+
+        <ImageView
+            android:id="@+id/activity_mydivision_iv_planner_headpic"
+            android:layout_width="@dimen/dimen_67dp"
+            android:layout_height="@dimen/dimen_67dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/test_banner14" />
+
+        <LinearLayout
+            android:id="@+id/activity_mydivision_ll_planner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_toRightOf="@+id/activity_mydivision_iv_planner_headpic"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_planner_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="理财规划师姓名"
+                android:textSize="@dimen/dimen_14sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_planner_level"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_5dp"
+                android:text="理财规划师职级"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_planner_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="理财规划师电话"
+                android:textSize="@dimen/dimen_12sp" />
+        </LinearLayout>
+        
+        <ImageView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/p2_arrow_right"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/appback" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:text="产品服务经理"
+            android:textSize="@dimen/dimen_13sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:id="@+id/activity_mydivision_tv_product_change"
+            android:background="@drawable/corners_bg_mydivision_change"
+            android:padding="@dimen/dimen_3dp"
+            android:text="更换"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="@dimen/dimen_80dp" >
+
+        <ImageView
+            android:id="@+id/activity_mydivision_iv_product_headpic"
+            android:layout_width="@dimen/dimen_67dp"
+            android:layout_height="@dimen/dimen_67dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/test_banner13" />
+
+        <LinearLayout
+            android:id="@+id/activity_mydivision_ll_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_toRightOf="@+id/activity_mydivision_iv_product_headpic"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_product_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="产品经理姓名"
+                android:textSize="@dimen/dimen_14sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_product_level"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_5dp"
+                android:text="产品经理职级"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_product_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="产品经理电话"
+                android:textSize="@dimen/dimen_12sp" />
+        </LinearLayout>
+        
+        <ImageView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/p2_arrow_right"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/appback" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:text="律师"
+            android:textSize="@dimen/dimen_13sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@drawable/corners_bg_mydivision_change"
+            android:id="@+id/activity_mydivision_iv_lawyer_change"
+            android:padding="@dimen/dimen_3dp"
+            android:text="更换"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="@dimen/dimen_80dp" >
+
+        <ImageView
+            android:id="@+id/activity_mydivision_iv_lawyer_headpic"
+            android:layout_width="@dimen/dimen_67dp"
+            android:layout_height="@dimen/dimen_67dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/test_banner12" />
+
+        <LinearLayout
+            android:id="@+id/activity_mydivision_ll_lawyer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_toRightOf="@+id/activity_mydivision_iv_lawyer_headpic"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_lawyer_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="律师姓名"
+                android:textSize="@dimen/dimen_14sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_lawyer_level"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_5dp"
+                android:text="律师职级"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_lawyer_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="律师电话"
+                android:textSize="@dimen/dimen_12sp" />
+        </LinearLayout>
+        
+        <ImageView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/p2_arrow_right"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:background="@color/appback" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:text="投资分析师"
+            android:textSize="@dimen/dimen_13sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@drawable/corners_bg_mydivision_change"
+            android:padding="@dimen/dimen_3dp"
+            android:id="@+id/activity_mydivision_iv_taxexpert_change"
+            android:text="更换"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="@dimen/dimen_80dp" >
+
+        <ImageView
+            android:id="@+id/activity_mydivision_iv_taxexpert_headpic"
+            android:layout_width="@dimen/dimen_67dp"
+            android:layout_height="@dimen/dimen_67dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/test_banner11" />
+
+        <LinearLayout
+            android:id="@+id/activity_mydivision_ll_taxexpert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_toRightOf="@+id/activity_mydivision_iv_taxexpert_headpic"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_taxexpert_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="投资分析师姓名"
+                android:textSize="@dimen/dimen_14sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_taxexpert_level"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_5dp"
+                android:text="投资分析师职级"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_mydivision_tv_taxexpert_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="投资分析师电话"
+                android:textSize="@dimen/dimen_12sp" />
+        </LinearLayout>
+        
+        <ImageView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/p2_arrow_right"/>
+    </RelativeLayout>
+
+</LinearLayout>

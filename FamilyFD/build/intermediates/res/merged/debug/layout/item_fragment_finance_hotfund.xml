@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dimen_100dp"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/dimen_10dp"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical|left"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/item_fragment_finance_hotfund_tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="基金名称"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/dimen_13sp" />
+
+        <TextView
+            android:id="@+id/item_fragment_finance_hotfund_tv_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_3dp"
+            android:text="基金特点"
+            android:textColor="@color/textcolor2"
+            android:textSize="@dimen/dimen_10sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/dimen_10dp"
+        android:layout_marginRight="@dimen/dimen_10dp"
+        android:layout_marginTop="@dimen/dimen_15dp"
+        android:layout_weight="3"
+        android:gravity="center_vertical|right"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/item_fragment_finance_hotfund_tv_fallrise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="25.01%"
+            android:textColor="@color/statusbar_bg"
+            android:textSize="@dimen/dimen_14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_3dp"
+            android:text="近一年涨幅"
+            android:textColor="@color/textcolor2"
+            android:textSize="@dimen/dimen_10sp" />
+    </LinearLayout>
+
+</LinearLayout>

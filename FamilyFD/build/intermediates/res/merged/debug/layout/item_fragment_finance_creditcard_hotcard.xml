@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/dimen_15dp"
+    android:paddingBottom="@dimen/dimen_15dp"
+    android:id="@+id/item_fragment_finance_creditcard_hotcard_rl" >
+
+    <ImageView
+        android:id="@+id/item_fragment_finance_creditcard_hotcard_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:src="@drawable/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:layout_toRightOf="@+id/item_fragment_finance_creditcard_hotcard_iv"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/item_fragment_finance_creditcard_hotcard_tv_titel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="哈哈哈哈 "
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/dimen_12sp"
+            android:textStyle="bold" />
+
+            <com.example.familyfd.utils.FlowGroupView
+                android:id="@+id/item_fragment_finance_creditcard_hotcard_fl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+            </com.example.familyfd.utils.FlowGroupView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/dimen_3dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/item_fragment_finance_creditcard_hotcard_tv_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="111"
+                android:textColor="#FF3535"
+                android:textSize="@dimen/dimen_11sp" />
+
+            <TextView
+                android:id="@+id/item_fragment_finance_creditcard_hotcard_tv_people"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="人已申请"
+                android:textSize="@dimen/dimen_11sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

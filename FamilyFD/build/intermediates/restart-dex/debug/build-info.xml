@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="31891011445443"
+    token="-585382726615624328" >
+
+    <task
+        name="javac"
+        duration="566" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build timestamp="30901871108438" >
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\outputs\apk\FamilyFD-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="31263617625157"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="31621258615122" >
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="31891011445443" >
+        <artifact
+            location="D:\workplace\Joker\FamilyFD\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

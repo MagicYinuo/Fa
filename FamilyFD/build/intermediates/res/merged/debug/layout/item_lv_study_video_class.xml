@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_6dp"
+        android:background="@color/appback" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/item_study_video_tv_videokind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="@dimen/dimen_10dp"
+            android:gravity="center_vertical"
+            android:text="视频类别"
+            android:textSize="@dimen/dimen_12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_study_video_tv_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/dimen_10dp"
+            android:gravity="center_vertical"
+            android:text="更多>>"
+            android:textSize="@dimen/dimen_12sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_100dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/item_study_video_iv_img1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginRight="@dimen/dimen_5dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:src="@drawable/testbackground" />
+
+        <ImageView
+            android:id="@+id/item_study_video_iv_img2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_5dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:src="@drawable/testbackground" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_9dp"
+        android:layout_marginTop="@dimen/dimen_9dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/item_study_video_tv_videoname1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_weight="1"
+            android:text="视频名称1"
+            android:textSize="@dimen/dimen_12sp" />
+
+        <TextView
+            android:id="@+id/item_study_video_tv_videoname2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:text="视频名称2"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

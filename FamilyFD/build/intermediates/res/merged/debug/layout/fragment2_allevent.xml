@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.example.familyfd.view.MyViewPager
+        android:id="@+id/fragment2_allevent_Banner"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_centerInParent="true"
+        android:clipChildren="false" />
+
+    <com.example.familyfd.view.MyListView
+        android:id="@+id/fragment2_allevent_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </com.example.familyfd.view.MyListView>
+
+</LinearLayout>

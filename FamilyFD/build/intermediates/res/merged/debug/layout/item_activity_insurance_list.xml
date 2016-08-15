@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dimen_106dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_105dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/item_activity_insurancelist_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_30dp"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:gravity="center_vertical|left"
+                android:text="测试保险-成年人重疾险"
+                android:textColor="@color/black"
+                android:textSize="@dimen/dimen_15sp" />
+
+            <TextView
+                android:id="@+id/item_activity_insurancelist_tv_introduce"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:gravity="center_vertical|left"
+                android:paddingBottom="@dimen/dimen_5dp"
+                android:paddingTop="@dimen/dimen_5dp"
+                android:text="测试胜多负少东方闪电范胜多负少多岁的发送到sdf每天仅需1.3元"
+                android:textColor="@color/item_activity_insurance_gray"
+                android:textSize="@dimen/dimen_11sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_20dp"
+                android:layout_marginBottom="@dimen/dimen_5dp"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/item_activity_insurancelist_tv_age"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="承保年龄: 18-"
+                    android:textColor="@color/item_activity_insurance_gray"
+                    android:textSize="@dimen/dimen_9sp" />
+
+                <TextView
+                    android:layout_width="@dimen/dimen_0.5dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_3dp"
+                    android:layout_marginTop="@dimen/dimen_3dp"
+                    android:background="@color/item_activity_insurance_gray" />
+
+                <TextView
+                    android:id="@+id/item_activity_insurancelist_tv_term"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="承保期限: XX天"
+                    android:textColor="@color/item_activity_insurance_gray"
+                    android:textSize="@dimen/dimen_9sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="4" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/item_activity_insurancelist_iv_img"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="@dimen/dimen_5dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:src="@drawable/fragment_finance_insure_chinapepole" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/dimen_15dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="¥"
+                    android:textColor="@color/item_activity_insurance_orange"
+                    android:textSize="@dimen/dimen_15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_3dp"
+                    android:text="100"
+                    android:id="@+id/item_activity_insurancelist_tv_price"
+                    android:textColor="@color/item_activity_insurance_orange"
+                    android:textSize="@dimen/dimen_15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_2dp"
+                    android:text="起"
+                    android:textColor="@color/item_activity_insurance_orange"
+                    android:textSize="@dimen/dimen_10sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+	<TextView android:layout_width="match_parent"
+	    android:layout_height="@dimen/dimen_1dp"
+	    android:background="@color/appback"/>
+</LinearLayout>

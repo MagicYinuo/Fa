@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_more_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="更多"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_178dp"
+                android:background="@color/white"
+                android:src="@drawable/activity_more_pyramid" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_5dp"
+                android:background="@color/appback" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_37dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:background="@color/white"
+                android:text="财务安全规划"
+                android:textSize="@dimen/dimen_13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_60dp"
+                android:background="@color/white"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_cash"
+                    android:layout_weight="1" >
+
+                    <ImageView
+                        android:id="@+id/activity_more_cash"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_cash" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_cash"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="现金规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:id="@+id/activity_more_rl_insurance"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                    
+                    <ImageView
+                        android:id="@+id/activity_more_insurance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_insurance" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_insurance"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="保险规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_education"
+                    android:layout_weight="1" >
+                    
+                      <ImageView
+                        android:id="@+id/activity_more_education"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_education" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_education"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="教育规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_60dp"
+                android:background="@color/white"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_pasture"
+                    android:layout_weight="1" >
+                    
+                     <ImageView
+                        android:id="@+id/activity_more_pasture"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_pension" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_pasture"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="养老规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:id="@+id/activity_more_rl_house"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                    
+                      <ImageView
+                        android:id="@+id/activity_more_house"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_myhome" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_house"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="购房规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_car"
+                    android:layout_weight="1" >
+                    
+                    <ImageView
+                        android:id="@+id/activity_more_car"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_layer_1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_car"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="购车规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_10dp"
+                android:background="@color/appback" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_37dp"
+                android:gravity="center_vertical"
+                android:background="@color/white"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="财务自由规划"
+                android:textSize="@dimen/dimen_13sp" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_60dp"
+                android:background="@color/white"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_invest"
+                    android:layout_weight="1" >
+                    
+                     <ImageView
+                        android:id="@+id/activity_more_invest"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/index_invest" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_invest"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="投资规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_revenue"
+                    android:layout_weight="1" >
+                    
+                      <ImageView
+                        android:id="@+id/activity_more_revenue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/activity_more_revenue" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_revenue"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="税收规划"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/appback" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/activity_more_rl_finance"
+                    android:layout_weight="1" >
+                    
+                    <ImageView
+                        android:id="@+id/activity_more_finance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/activity_more_finance" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_finance"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="财富传承"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+            </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_10dp"
+                android:background="@color/appback" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_37dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="特殊需求"
+                android:background="@color/white"
+                android:textSize="@dimen/dimen_13sp" />
+            
+            <TextView android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback"/>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                android:layout_height="@dimen/dimen_60dp"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:id="@+id/activity_more_rl_dream"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                    
+                     <ImageView
+                        android:id="@+id/activity_more_dream"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:src="@drawable/activity_more_dream" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/activity_more_dream"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dimen_5dp"
+                        android:text="自由梦想"
+                        android:textSize="@dimen/dimen_10sp" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/white" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                    
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="@dimen/dimen_1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/dimen_5dp"
+                    android:layout_marginTop="@dimen/dimen_5dp"
+                    android:background="@color/white" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                    
+                </RelativeLayout>
+            </LinearLayout>
+            
+            <TextView android:layout_width="match_parent"
+                android:layout_height="100dp"/>
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

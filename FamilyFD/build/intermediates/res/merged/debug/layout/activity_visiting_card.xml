@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appback"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_20dp"
+        android:background="@color/statusbar_bg" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:background="@color/statusbar_bg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/activity_visitingcard_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:src="@drawable/p2_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/activity_visitingcard_title"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/dimen_18sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_130dp"
+                android:background="@drawable/activity_visitingcard_back" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_horizontal"
+                        android:weightSum="5" >
+
+                        <ImageView
+                            android:id="@+id/activity_visitingcard_img"
+                            android:layout_width="0dp"
+                            android:layout_height="@dimen/dimen_80dp"
+                            android:layout_weight="1"
+                            android:background="#FFF"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/ic_launcher" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/activity_visitingcard_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="理财师姓名"
+                        android:textColor="@color/white" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="基本资料"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <TextView
+                android:id="@+id/activity_visitingcard_level"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="职级 : 资深保险理财师"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_visitingcard_organization"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="所属机构 : 中国平安人寿公司"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_visitingcard_phone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="电话 : 16900000000"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:id="@+id/activity_visitingcard_workid"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="工号 : A2054"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_10dp"
+                android:background="@color/appback" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_40dp"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:text="个人简历"
+                android:textSize="@dimen/dimen_12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1dp"
+                android:background="@color/appback" />
+
+            <TextView
+                android:id="@+id/activity_visitingcard_introduce"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFF"
+                android:gravity="center_vertical"
+                android:lineSpacingExtra="@dimen/dimen_5dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingTop="@dimen/dimen_10dp"
+                android:text="阿萨德阿萨德asas阿萨德as打算打算大声道as撒旦阿萨德阿萨德阿萨德阿萨德asas阿萨德as打算打算大声道as撒旦阿萨德阿萨德阿萨德阿萨德asas阿萨德as打算打算大声道as撒旦阿萨德阿萨德阿萨德阿萨德asas阿萨德as打算打算大声道as撒旦阿萨德阿萨德阿萨德阿萨德asas阿萨德as打算打算大声道as撒旦阿萨德阿萨"
+                android:textSize="@dimen/dimen_12sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
