@@ -1,8 +1,5 @@
 package com.example.familyfd.fragment;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -25,9 +22,14 @@ import com.example.familyfd.utils.TempUtils;
 import com.example.familyfd.view.MyListView;
 import com.example.familyfd.view.MyViewPager;
 import com.handmark.pulltorefresh.library.PullToRefreshBase;
-import com.handmark.pulltorefresh.library.PullToRefreshScrollView;
 import com.handmark.pulltorefresh.library.PullToRefreshBase.Mode;
 import com.handmark.pulltorefresh.library.PullToRefreshBase.OnRefreshListener2;
+import com.handmark.pulltorefresh.library.PullToRefreshScrollView;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
 
 public class Fragment2_class extends BaseFragment{
 
@@ -51,7 +53,7 @@ public class Fragment2_class extends BaseFragment{
 	
 	@Override
 	protected void initData() {
-		
+
 		mView=layout;
 		fragment2_class_myvp = (MyViewPager) layout
 				.findViewById(R.id.fragment2_class_myvp);

@@ -11,35 +11,34 @@
 \t\t公司可以提供的服务有:免费在线理财咨询,线下一对一理财咨询,财商教育,理财规划,投资咨询,法律咨询及服务,合理避税咨询、投资产品风险评估等家庭理财综合业务.\n
 \t\t本公司理财团队由国家理财规划师(ChFP),国际金融理财师(CFP),特许金融分析师(CFA),律师(执业),注册税务师(CTA),注册会计师(CPA)等国内外理财行业,金融行业专业团队组成，把控投资风险,为客户家庭提供全方位财务管理服务.\n
 \t\t在财务诊断过程中,会涉及到客户家庭财务状况,客户财务信息只用于客户分析财务状况,及用作制作财务规划的依据,未经客户书面许可,本公司不会透漏任何有关客户的个人信息.</string>
- <string name="activity_finance_diagnosis_before_iknow">我已阅读,确认下一步</string>
- 
- 	<string name="activity_FDFamily_title">家庭成员</string>
- 	<string name="activity_FDFamily_tv_name">本人姓名</string>
- 	<string name="activity_FDFamily_tv_age">年龄</string>
- 	<string name="activity_FDFamily_tv_sexy">性别</string>
- 	<string name="activity_FDFamily_profession">职业</string>
- 	<string name="activity_FDFamily_marriage">婚姻状况</string>
- 	<string name="activity_FDFamily_mateage">配偶年龄</string>
- 	<string name="activity_FDFamily_mateprofession">配偶职业</string>
- 	<string name="activity_FDFamily_child">子女状况</string>
- 	
- 	
- 	<string name="activity_FDFamily_child1">子女1年龄</string>
- 	<string name="activity_FDFamily_child2">子女2年龄</string>
- 	<string name="activity_FDFamily_child3">子女3年龄</string>
- 	<string name="activity_FDFamily_child4">子女4年龄</string>
- 	
- 	
- 	
- 	<string name="sex_male">男</string>
- 	<string name="sex_female">女</string>
- 	
- 	<string name="activity_FDBalanceSheet_title">家庭资产负债表</string>
- 	<string name="activity_IESheet_title">家庭收入支出表</string>
- 	
- 
- 	<string name="activity_About_title">关于软件</string>
- 	<string name="activity_visitingcard_title">电子名片</string>
- 	
- 
+    <string name="activity_finance_diagnosis_before_iknow">我已阅读,确认下一步</string>
+
+    <string name="activity_FDFamily_title">家庭成员</string>
+    <string name="activity_FDFamily_tv_name">本人姓名</string>
+    <string name="activity_FDFamily_tv_age">年龄</string>
+    <string name="activity_FDFamily_tv_sexy">性别</string>
+    <string name="activity_FDFamily_profession">职业</string>
+    <string name="activity_FDFamily_marriage">婚姻状况</string>
+    <string name="activity_FDFamily_mateage">配偶年龄</string>
+    <string name="activity_FDFamily_mateprofession">配偶职业</string>
+    <string name="activity_FDFamily_child">子女状况</string>
+
+
+    <string name="activity_FDFamily_child1">子女1年龄</string>
+    <string name="activity_FDFamily_child2">子女2年龄</string>
+    <string name="activity_FDFamily_child3">子女3年龄</string>
+    <string name="activity_FDFamily_child4">子女4年龄</string>
+
+
+    <string name="sex_male">男</string>
+    <string name="sex_female">女</string>
+
+    <string name="activity_FDBalanceSheet_title">家庭资产负债表</string>
+    <string name="activity_IESheet_title">家庭收入支出表</string>
+
+
+    <string name="activity_About_title">关于软件</string>
+    <string name="activity_visitingcard_title">电子名片</string>
+
+
 </resources>
