@@ -15,8 +15,8 @@ import com.tai.joker.thenews.fragment.SimpleFragment;
 public class MainActivity extends AppCompatActivity {
     private ViewPager mViewPager;
     private SlidingTabLayout mTabPageIndicator;
-    private static final String[] TTILES = {"头条", "房产", "另一面", "女人",
-            "财经", "数码", "情感", "科技"};
+    private static final String[] TTILES = {"头条", "房产", "另一面",
+        "财经", "数码", "情感", "科技"};
 
 
     @Override

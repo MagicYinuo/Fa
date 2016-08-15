@@ -249,7 +249,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
 
     private void initMenu() {
         menu = new SlidingMenu(this);
-        menu.setMode(SlidingMenu.LEFT);
+        menu.setMode(SlidingMenu.RIGHT);
 
         menu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
         menu.setShadowWidthRes(R.dimen.shade_withe);

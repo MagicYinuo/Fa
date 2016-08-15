@@ -1,7 +1,5 @@
 package com.example.familyfd.fragment;
 
-import java.util.ArrayList;
-
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -21,19 +19,19 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.familyfd.R;
 import com.example.familyfd.activity.CarsPlanActivity;
 import com.example.familyfd.activity.CashPlanActivity;
 import com.example.familyfd.activity.EducationPlanActivity;
+import com.example.familyfd.activity.FinanceDiagnosisBeforeActivity;
 import com.example.familyfd.activity.FinanceReportActivity;
 import com.example.familyfd.activity.HousePlanActivity;
 import com.example.familyfd.activity.InsurancePlanActivity;
 import com.example.familyfd.activity.InvestPlanActivity;
+import com.example.familyfd.activity.MainActivity;
 import com.example.familyfd.activity.MoreActivity;
 import com.example.familyfd.activity.OfflineOrderActivity;
-import com.example.familyfd.activity.FinanceDiagnosisBeforeActivity;
-import com.example.familyfd.activity.MainActivity;
 import com.example.familyfd.activity.PasturePlanActivity;
-import com.example.familyfd.R;
 import com.example.familyfd.activity.RiskAppetiteActivity;
 import com.example.familyfd.adapter.IndexVPAdapter;
 import com.example.familyfd.adapter.PagerAdapter;
@@ -44,6 +42,8 @@ import com.example.familyfd.utils.TempUtils;
 import com.example.familyfd.view.CircleView;
 import com.example.familyfd.view.MyViewPager;
 import com.example.familyfd.view.VerticalViewPager;
+
+import java.util.ArrayList;
 
 /**
  * @项目名: FamilyFD
@@ -300,7 +300,7 @@ public class Fragment_index extends BaseFragment {
         public void onClick(View v) {
 
             if (MyApplication.getInstance().getUser() == null) {
-                Toast.makeText(getActivity(), "请先登录", 0).show();
+                Toast.makeText(getActivity(), "请先登录", Toast.LENGTH_SHORT).show();
                 MainActivity.getInstance().showMenu();
                 ;
             } else
